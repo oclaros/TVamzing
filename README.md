@@ -1,2 +1,0 @@
-# TVamzing
-Created with CodeSandbox
